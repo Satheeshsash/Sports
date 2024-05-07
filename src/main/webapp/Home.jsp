@@ -55,6 +55,7 @@
                 bottom: 10px;
                 margin-left: 2px;
                 padding: 5px;
+                text-decoration:none;
             }
 
             .bb {
